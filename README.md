@@ -32,6 +32,8 @@ Start the development server
 npm run dev
 ```
 
+The development will start at ' http://localhost:5173/ '
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
